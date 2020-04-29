@@ -1,1 +1,1 @@
-This is a NOT real
+This is a NOT real, just training
